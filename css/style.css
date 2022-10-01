@@ -1,6 +1,21 @@
+body {
+    background-color: black;
+}
+
 .container {
     text-align: center;
     width: 100%;
     padding-left: 20px;
     font-size: 17px;
+}
+
+.container h2 {
+    color: blueviolet;
+}
+.container h1 {
+    color: cornflowerblue;
+}
+
+.container p {
+    color: darkmagenta;
 }
