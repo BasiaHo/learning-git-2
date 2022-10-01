@@ -14,8 +14,14 @@ body {
 }
 .container h1 {
     color: cornflowerblue;
+    font-style: italic;
 }
 
 .container p {
     color: darkmagenta;
+}
+
+.container i {
+    color: aliceblue;
+    font-size: 2em;
 }
