@@ -1,0 +1,11 @@
+npm exec html-validate index.html
+
+D:\Kodilla\learning-git-2\index.html
+  50:2  error  Mismatched close-tag, expected '</div>' but found '</body>'                   close-order
+  52:2  error  Mismatched close-tag, expected '</body>' but found '</html>'                  close-order
+  53:1  error  Missing close-tag, expected '</html>' but document ended before it was found  close-order
+
+✖ 3 problems (3 errors, 0 warnings)
+
+More information:
+  https://html-validate.org/rules/close-order.html
